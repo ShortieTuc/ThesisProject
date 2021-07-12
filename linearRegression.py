@@ -23,7 +23,7 @@ def create_lags(dataset, num):
 start = t.time()
 
 num_lags = 1
-df = pd.read_csv('../Thesis/Datasets/Full.csv')
+df = pd.read_csv('Datasets/Full.csv')
 df = create_lags(df, num_lags)
 df = df.filter(['hour', 'day', 'month', 'year', 'temperature', 'windSpeed', 'windDirection', 'cloudCover',
                 'netUsageMWh_lag1', 'netUsageMWh'])

@@ -9,7 +9,7 @@ from sklearn.preprocessing import MinMaxScaler
 import sklearn.metrics
 
 # Split dataset to features and target
-df = pd.read_csv('../Thesis/Datasets/Denver.csv')
+df = pd.read_csv('Datasets/Denver.csv')
 dataset_arr = df.values
 X = dataset_arr[:, :-1]
 y = dataset_arr[:, -1:]

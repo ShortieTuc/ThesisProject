@@ -48,7 +48,7 @@ num_lags = 1
 
 
 # Read the CSV input file and show first 5 rows
-df = pd.read_csv('../Thesis/Datasets/Denver.csv')
+df = pd.read_csv('Datasets/Denver.csv')
 df_train = create_lags(df, num_lags)
 df_train = df_train.filter(['hour', 'day', 'month', 'year', 'temperature', 'windSpeed', 'windDirection', 'cloudCover',
                 'netUsageMWh_lag1', 'netUsageMWh'])
