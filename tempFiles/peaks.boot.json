@@ -1,0 +1,22 @@
+[ {
+  "hour" : 0,
+  "day" : 1,
+  "month" : 1,
+  "year" : 2008,
+  "temperature" : 11.3,
+  "windSpeed" : 3.0,
+  "windDirection" : 250.0,
+  "cloudCover" : 0.5,
+  "netUsageMWh" : 28.334234674975804
+},
+{
+  "hour" : 0,
+  "day" : 2,
+  "month" : 2,
+  "year" : 2009,
+  "temperature" : 12.3,
+  "windSpeed" : 4.0,
+  "windDirection" : 260.0,
+  "cloudCover" : 0.7,
+  "netUsageMWh" : 24.3312412374975804
+}]

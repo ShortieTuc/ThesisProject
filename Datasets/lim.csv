@@ -1,0 +1,3 @@
+hour,day,month,year,temperature,windSpeed,windDirection,cloudCover,netUsageMWh_lag1,netUsageMWh
+0.0,1.0,1.0,2008.0,-30.4,0.0,0.0,0.0,-24534.645407832475,-24534.645407832475
+23.0,7.0,12.0,2010.0,45.1,38.62,360.0,1.0,100428289.49934097,100428289.49934097

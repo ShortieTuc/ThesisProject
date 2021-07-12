@@ -1,0 +1,5365 @@
+[ {
+  "timeslot" : 1730,
+  "weather" : {
+    "day" : 2,
+    "hour" : 2,
+    "timeslot" : 1730,
+    "temperature" : -0.5,
+    "windSpeed" : 8.0,
+    "windDirection" : 210.0,
+    "cloudCover" : 0.875
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.0,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 RaS Controllable",
+    "usage" : -0.004254,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Controllable",
+    "usage" : -0.004254,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 RaS Base",
+    "usage" : -0.004176,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Base",
+    "usage" : -0.004176,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.08639,
+    "count" : 243,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.3517,
+    "count" : 782,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.7103599999999999,
+    "count" : 2804,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.5064300000000002,
+    "count" : 4338,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -4.17936,
+    "count" : 6862,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.01511,
+    "count" : 20,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.22696999999999998,
+    "count" : 300,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -1.20481,
+    "count" : 2021,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.21044,
+    "count" : 3341,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.8118600000000002,
+    "count" : 4442,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.20575,
+    "count" : 2,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.31493,
+    "count" : 3,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -1.04977,
+    "count" : 10,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.62986,
+    "count" : 6,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.84553,
+    "count" : 5,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.21372,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.75517,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -1.02431,
+    "count" : 1,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -1.68161,
+    "count" : 2,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "MedicalCenter-1",
+    "usage" : -4.47842,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : -0.0,
+    "count" : 2364,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "seafood-2",
+    "usage" : -0.07821972187188281,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.02965701246605256,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Base",
+    "usage" : -0.001188,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.002281,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Controllable",
+    "usage" : -0.002404,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1731,
+  "weather" : {
+    "day" : 2,
+    "hour" : 3,
+    "timeslot" : 1731,
+    "temperature" : -0.7,
+    "windSpeed" : 6.0,
+    "windDirection" : 200.0,
+    "cloudCover" : 0.0
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.0,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 RaS Controllable",
+    "usage" : -0.004254,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Controllable",
+    "usage" : -0.004254,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 RaS Base",
+    "usage" : -0.004176,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Base",
+    "usage" : -0.004176,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.09914,
+    "count" : 243,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.34096,
+    "count" : 782,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.29491,
+    "count" : 2804,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.43279,
+    "count" : 4338,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -5.2542,
+    "count" : 6862,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.011890000000000001,
+    "count" : 20,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.17865,
+    "count" : 300,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -1.1150499999999999,
+    "count" : 2021,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -1.9099000000000004,
+    "count" : 3341,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.82838,
+    "count" : 4442,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.22119999999999998,
+    "count" : 2,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.33181,
+    "count" : 3,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -1.1285999999999998,
+    "count" : 10,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.67716,
+    "count" : 6,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.6705599999999999,
+    "count" : 5,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.20876,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.75824,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -1.03294,
+    "count" : 1,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -1.85044,
+    "count" : 2,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "MedicalCenter-1",
+    "usage" : -4.83587,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : -0.0,
+    "count" : 2364,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "seafood-2",
+    "usage" : -0.07214040177542823,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.025324774027522784,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Base",
+    "usage" : -0.001188,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.002281,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Controllable",
+    "usage" : -0.002404,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1732,
+  "weather" : {
+    "day" : 2,
+    "hour" : 4,
+    "timeslot" : 1732,
+    "temperature" : -1.1,
+    "windSpeed" : 5.0,
+    "windDirection" : 200.0,
+    "cloudCover" : 0.0
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.005838,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 RaS Controllable",
+    "usage" : -0.004254,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Controllable",
+    "usage" : -0.004254,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 RaS Base",
+    "usage" : -0.004176,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Base",
+    "usage" : -0.004176,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.13204,
+    "count" : 243,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.27644,
+    "count" : 782,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.2486300000000001,
+    "count" : 2804,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.17207,
+    "count" : 4338,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -5.29272,
+    "count" : 6862,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.011009999999999999,
+    "count" : 20,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.16537000000000002,
+    "count" : 300,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.94929,
+    "count" : 2021,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -1.44373,
+    "count" : 3341,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -4.333810000000001,
+    "count" : 4442,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.28198,
+    "count" : 2,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.43160000000000004,
+    "count" : 3,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -1.43869,
+    "count" : 10,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.86321,
+    "count" : 6,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.5343,
+    "count" : 5,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.22533,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.71702,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -1.152,
+    "count" : 1,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -1.9101599999999999,
+    "count" : 2,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "MedicalCenter-1",
+    "usage" : -4.53772,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : -0.0,
+    "count" : 2364,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "seafood-2",
+    "usage" : -0.07166590734227477,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.028244842715403645,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Base",
+    "usage" : -0.001188,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.002281,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Controllable",
+    "usage" : -0.002404,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1733,
+  "weather" : {
+    "day" : 2,
+    "hour" : 5,
+    "timeslot" : 1733,
+    "temperature" : -0.9,
+    "windSpeed" : 8.0,
+    "windDirection" : 200.0,
+    "cloudCover" : 0.0
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.014928,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 RaS Controllable",
+    "usage" : -0.033547,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Controllable",
+    "usage" : -0.033547,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 RaS Base",
+    "usage" : -0.004176,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Base",
+    "usage" : -0.004176,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.10304,
+    "count" : 243,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.23806,
+    "count" : 782,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.4822600000000001,
+    "count" : 2804,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.9361700000000002,
+    "count" : 4338,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -3.08892,
+    "count" : 6862,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.00936,
+    "count" : 20,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.1407,
+    "count" : 300,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -1.33667,
+    "count" : 2021,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.62501,
+    "count" : 3341,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -4.13351,
+    "count" : 4442,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.33958999999999995,
+    "count" : 2,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.5093799999999999,
+    "count" : 3,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -1.73261,
+    "count" : 10,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -1.03956,
+    "count" : 6,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.50103,
+    "count" : 5,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.22594999999999998,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.7198300000000001,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -1.5039500000000001,
+    "count" : 1,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -1.71325,
+    "count" : 2,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "MedicalCenter-1",
+    "usage" : -5.26046,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : -0.0,
+    "count" : 2364,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "seafood-2",
+    "usage" : -0.07370004974462566,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.04927918087412356,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Base",
+    "usage" : -0.001188,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.002281,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Controllable",
+    "usage" : -0.004084,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1734,
+  "weather" : {
+    "day" : 2,
+    "hour" : 6,
+    "timeslot" : 1734,
+    "temperature" : -1.6,
+    "windSpeed" : 7.0,
+    "windDirection" : 200.0,
+    "cloudCover" : 0.0
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.015135000000000001,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 RaS Controllable",
+    "usage" : -0.019177,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Controllable",
+    "usage" : -0.019177,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 RaS Base",
+    "usage" : -0.023656,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Base",
+    "usage" : -0.023656,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.13377,
+    "count" : 243,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.34263,
+    "count" : 782,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.5172,
+    "count" : 2804,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.41267,
+    "count" : 4338,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.99513,
+    "count" : 6862,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.01856,
+    "count" : 20,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.25372,
+    "count" : 300,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -1.1553099999999998,
+    "count" : 2021,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.2383200000000003,
+    "count" : 3341,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.51817,
+    "count" : 4442,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.44186000000000003,
+    "count" : 2,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.66279,
+    "count" : 3,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -2.2093000000000003,
+    "count" : 10,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -1.32558,
+    "count" : 6,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.5633400000000001,
+    "count" : 5,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.22819,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.74507,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -1.57157,
+    "count" : 1,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -1.60569,
+    "count" : 2,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "MedicalCenter-1",
+    "usage" : -5.94714,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : 0.48696,
+    "count" : 2364,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "seafood-2",
+    "usage" : -0.07784763986422522,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.03279671141525552,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Base",
+    "usage" : -0.001188,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.002281,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Controllable",
+    "usage" : -0.010076,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1735,
+  "weather" : {
+    "day" : 2,
+    "hour" : 7,
+    "timeslot" : 1735,
+    "temperature" : -1.8,
+    "windSpeed" : 7.0,
+    "windDirection" : 190.0,
+    "cloudCover" : 0.0
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.01125,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 RaS Controllable",
+    "usage" : -0.019189,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Controllable",
+    "usage" : -0.019189,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 RaS Base",
+    "usage" : -0.022135000000000002,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Base",
+    "usage" : -0.022135000000000002,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.10629999999999999,
+    "count" : 243,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.4756000000000001,
+    "count" : 782,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.34225,
+    "count" : 2804,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.3562800000000004,
+    "count" : 4338,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.42812,
+    "count" : 6862,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.0158,
+    "count" : 20,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.19825000000000004,
+    "count" : 300,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.8733200000000001,
+    "count" : 2021,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.38331,
+    "count" : 3341,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.66348,
+    "count" : 4442,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.58215,
+    "count" : 2,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.87322,
+    "count" : 3,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -2.91075,
+    "count" : 10,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -1.7464499999999998,
+    "count" : 6,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.56487,
+    "count" : 5,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.74507,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.13808,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -1.5238699999999998,
+    "count" : 1,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -1.58965,
+    "count" : 2,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "MedicalCenter-1",
+    "usage" : -6.97129,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : 2.8565500000000004,
+    "count" : 2364,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "seafood-2",
+    "usage" : -0.07148175542822302,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.031076801711041987,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Base",
+    "usage" : -0.018559000000000003,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.002281,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Controllable",
+    "usage" : -0.019209,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1736,
+  "weather" : {
+    "day" : 2,
+    "hour" : 8,
+    "timeslot" : 1736,
+    "temperature" : -2.7,
+    "windSpeed" : 6.0,
+    "windDirection" : 180.0,
+    "cloudCover" : 0.375
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.018503,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 RaS Controllable",
+    "usage" : -0.011042999999999999,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Base",
+    "usage" : -0.041469000000000006,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 RaS Base",
+    "usage" : -0.018178,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Base",
+    "usage" : -0.018178,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Controllable",
+    "usage" : -0.011418,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.07953,
+    "count" : 217,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.21559,
+    "count" : 544,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.0212999999999999,
+    "count" : 2867,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.24387,
+    "count" : 5116,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.21271,
+    "count" : 7374,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.03563,
+    "count" : 42,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.14841000000000001,
+    "count" : 260,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.84211,
+    "count" : 2081,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.33273,
+    "count" : 3447,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.1951300000000002,
+    "count" : 4700,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.36723,
+    "count" : 1,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -1.46892,
+    "count" : 4,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -4.03955,
+    "count" : 11,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -2.2033899999999997,
+    "count" : 6,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.45638999999999996,
+    "count" : 4,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.16779,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.21372,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -2.47444,
+    "count" : 2,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -1.6624299999999999,
+    "count" : 2,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "MedicalCenter-1",
+    "usage" : -7.18996,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : 6.8908000000000005,
+    "count" : 3749,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "seafood-2",
+    "usage" : -0.06661920665850667,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.03370312060563066,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.035555555555555556,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Base",
+    "usage" : -0.034637,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.004107,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Base",
+    "usage" : -0.033957999999999995,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1737,
+  "weather" : {
+    "day" : 2,
+    "hour" : 9,
+    "timeslot" : 1737,
+    "temperature" : -3.2,
+    "windSpeed" : 6.0,
+    "windDirection" : 180.0,
+    "cloudCover" : 0.875
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.013073,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 RaS Controllable",
+    "usage" : -0.007974,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Base",
+    "usage" : -0.038030999999999995,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 RaS Base",
+    "usage" : -0.015024,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Base",
+    "usage" : -0.015024,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Controllable",
+    "usage" : -0.011503,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.13204,
+    "count" : 217,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.16304,
+    "count" : 544,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.1583599999999998,
+    "count" : 2867,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -3.1150700000000002,
+    "count" : 5116,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.60174,
+    "count" : 7374,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.03563,
+    "count" : 42,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.11222,
+    "count" : 260,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -1.0019500000000001,
+    "count" : 2081,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.84286,
+    "count" : 3447,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.74937,
+    "count" : 4700,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.3638,
+    "count" : 1,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -1.45522,
+    "count" : 4,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -4.00187,
+    "count" : 11,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -2.18284,
+    "count" : 6,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.8563200000000001,
+    "count" : 4,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.16446,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.20876,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -2.5394200000000002,
+    "count" : 2,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -1.65077,
+    "count" : 2,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "MedicalCenter-1",
+    "usage" : -6.37184,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : 3.22053,
+    "count" : 3749,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "seafood-2",
+    "usage" : -0.07116198381553868,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.028458687405715728,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.035555555555555556,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Base",
+    "usage" : -0.038357999999999996,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.00413,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Base",
+    "usage" : -0.033707,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1738,
+  "weather" : {
+    "day" : 2,
+    "hour" : 10,
+    "timeslot" : 1738,
+    "temperature" : -3.9,
+    "windSpeed" : 6.0,
+    "windDirection" : 170.0,
+    "cloudCover" : 0.875
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.00718,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 RaS Controllable",
+    "usage" : -0.009876,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Base",
+    "usage" : -0.048443,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 RaS Base",
+    "usage" : -0.016357,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Base",
+    "usage" : -0.016357,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Controllable",
+    "usage" : -0.010537000000000001,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.1,
+    "count" : 217,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.19175999999999999,
+    "count" : 544,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.3163399999999998,
+    "count" : 2867,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.8804400000000001,
+    "count" : 5116,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -3.23423,
+    "count" : 7374,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.03199,
+    "count" : 42,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.27976,
+    "count" : 260,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -1.71627,
+    "count" : 2081,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.39359,
+    "count" : 3447,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.73025,
+    "count" : 4700,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.36313,
+    "count" : 1,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -1.45254,
+    "count" : 4,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -3.9945,
+    "count" : 11,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -2.17882,
+    "count" : 6,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.82156,
+    "count" : 4,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.12309,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.22533,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -2.9853899999999998,
+    "count" : 2,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -1.6316700000000002,
+    "count" : 2,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "MedicalCenter-1",
+    "usage" : -6.64096,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : 5.86625,
+    "count" : 3749,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "seafood-2",
+    "usage" : -0.08169573674313811,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.05364802508701131,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.03555555555555556,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Base",
+    "usage" : -0.039043,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.005142,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Base",
+    "usage" : -0.041350000000000005,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1739,
+  "weather" : {
+    "day" : 2,
+    "hour" : 11,
+    "timeslot" : 1739,
+    "temperature" : -4.3,
+    "windSpeed" : 5.0,
+    "windDirection" : 170.0,
+    "cloudCover" : 0.75
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.024124,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 RaS Controllable",
+    "usage" : -0.014618,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Base",
+    "usage" : -0.046892,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 RaS Base",
+    "usage" : -0.016992999999999998,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Base",
+    "usage" : -0.016992999999999998,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Controllable",
+    "usage" : -0.009715999999999999,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.09641,
+    "count" : 217,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.22225,
+    "count" : 544,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.1153199999999999,
+    "count" : 2867,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -3.1206199999999997,
+    "count" : 5116,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -4.48994,
+    "count" : 7374,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.03283,
+    "count" : 42,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.30929,
+    "count" : 260,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -1.44506,
+    "count" : 2081,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.48551,
+    "count" : 3447,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.51263,
+    "count" : 4700,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.35608999999999996,
+    "count" : 1,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -1.42439,
+    "count" : 4,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -3.9170700000000003,
+    "count" : 11,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -2.13658,
+    "count" : 6,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.7785,
+    "count" : 4,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.12584,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.22594999999999998,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -2.63292,
+    "count" : 2,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -1.72906,
+    "count" : 2,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "MedicalCenter-1",
+    "usage" : -6.94825,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : 6.87625,
+    "count" : 3749,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "seafood-2",
+    "usage" : -0.07329704167538312,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.03808027418886662,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.035555555555555556,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Base",
+    "usage" : -0.037683999999999995,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.004645,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Base",
+    "usage" : -0.043306,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1740,
+  "weather" : {
+    "day" : 2,
+    "hour" : 12,
+    "timeslot" : 1740,
+    "temperature" : -3.8,
+    "windSpeed" : 5.0,
+    "windDirection" : 160.0,
+    "cloudCover" : 1.0
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.007987,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 RaS Controllable",
+    "usage" : -0.008327999999999999,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Base",
+    "usage" : -0.036995,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 RaS Base",
+    "usage" : -0.012502,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Base",
+    "usage" : -0.012502,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Controllable",
+    "usage" : -0.012404,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.06498000000000001,
+    "count" : 217,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.29604,
+    "count" : 544,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -3.23895,
+    "count" : 2867,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.3628899999999997,
+    "count" : 5116,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.71044,
+    "count" : 7374,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.03456,
+    "count" : 42,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.21425999999999998,
+    "count" : 260,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -1.50053,
+    "count" : 2081,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.57344,
+    "count" : 3447,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.1503400000000004,
+    "count" : 4700,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.37239999999999995,
+    "count" : 1,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -1.48963,
+    "count" : 4,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -4.09649,
+    "count" : 11,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -2.23445,
+    "count" : 6,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.5970599999999999,
+    "count" : 4,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.12182,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.22819,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -2.86564,
+    "count" : 2,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -1.714,
+    "count" : 2,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "MedicalCenter-1",
+    "usage" : -6.7469399999999995,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : 1.24511,
+    "count" : 3749,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "seafood-2",
+    "usage" : -0.0748172933317881,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.04126886773268748,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.035555555555555556,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Base",
+    "usage" : -0.034145,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.004789,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Base",
+    "usage" : -0.033078,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1741,
+  "weather" : {
+    "day" : 2,
+    "hour" : 13,
+    "timeslot" : 1741,
+    "temperature" : -2.4,
+    "windSpeed" : 4.0,
+    "windDirection" : 120.0,
+    "cloudCover" : 1.0
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.0022400000000000002,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 RaS Controllable",
+    "usage" : -0.007649,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Base",
+    "usage" : -0.03612,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 RaS Base",
+    "usage" : -0.017554,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Base",
+    "usage" : -0.017554,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Controllable",
+    "usage" : -0.012010000000000002,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.07639,
+    "count" : 217,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.2311,
+    "count" : 544,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.1725,
+    "count" : 2867,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.27818,
+    "count" : 5116,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -4.49794,
+    "count" : 7374,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.029099999999999997,
+    "count" : 42,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.18037,
+    "count" : 260,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -1.55362,
+    "count" : 2081,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.41206,
+    "count" : 3447,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.1806900000000002,
+    "count" : 4700,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.34775,
+    "count" : 1,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -1.39102,
+    "count" : 4,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -3.82531,
+    "count" : 11,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -2.08653,
+    "count" : 6,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.40676,
+    "count" : 4,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.21062,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.23056000000000001,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -4.09828,
+    "count" : 2,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -1.81599,
+    "count" : 2,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "MedicalCenter-1",
+    "usage" : -7.06529,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : 1.55555,
+    "count" : 3749,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "seafood-2",
+    "usage" : -0.08221180455563819,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.06949279449120588,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.035555555555555556,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Base",
+    "usage" : -0.033883,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.013123000000000001,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Base",
+    "usage" : -0.030674,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1742,
+  "weather" : {
+    "day" : 2,
+    "hour" : 14,
+    "timeslot" : 1742,
+    "temperature" : -1.6,
+    "windSpeed" : 4.0,
+    "windDirection" : 130.0,
+    "cloudCover" : 1.0
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.010027,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Base",
+    "usage" : -0.040438,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 SS Base",
+    "usage" : -0.040438,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Base",
+    "usage" : -0.017054,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Controllable",
+    "usage" : -0.017942,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.11793000000000001,
+    "count" : 240,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.43933,
+    "count" : 946,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.5918299999999999,
+    "count" : 2885,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.01865,
+    "count" : 4936,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -3.4990799999999997,
+    "count" : 7576,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.04317,
+    "count" : 60,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.15850999999999998,
+    "count" : 220,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -1.50447,
+    "count" : 2150,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.5842899999999998,
+    "count" : 3452,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.3602399999999997,
+    "count" : 4839,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.35824,
+    "count" : 1,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.71648,
+    "count" : 2,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -3.9406800000000004,
+    "count" : 11,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -2.5077,
+    "count" : 7,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.26271,
+    "count" : 1,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.56923,
+    "count" : 3,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.08223,
+    "count" : 1,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -5.17082,
+    "count" : 2,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.88058,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.89928,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "MedicalCenter-1",
+    "usage" : -6.98139,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : 0.75919,
+    "count" : 2777,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.09103592290401562,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.035555555555555556,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Base",
+    "usage" : -0.034366999999999995,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.014954,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Base",
+    "usage" : -0.031615,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1743,
+  "weather" : {
+    "day" : 2,
+    "hour" : 15,
+    "timeslot" : 1743,
+    "temperature" : -1.9,
+    "windSpeed" : 4.0,
+    "windDirection" : 110.0,
+    "cloudCover" : 1.0
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.007029,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Base",
+    "usage" : -0.072932,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 SS Base",
+    "usage" : -0.072932,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Base",
+    "usage" : -0.024756,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Controllable",
+    "usage" : -0.079905,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.12563000000000002,
+    "count" : 240,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.34732999999999997,
+    "count" : 946,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.26518,
+    "count" : 2885,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.68823,
+    "count" : 4936,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -3.37363,
+    "count" : 7576,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.04468,
+    "count" : 60,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.16406,
+    "count" : 220,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -1.45685,
+    "count" : 2150,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.33909,
+    "count" : 3452,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.4892399999999992,
+    "count" : 4839,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.34767000000000003,
+    "count" : 1,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.6953400000000001,
+    "count" : 2,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -3.8243700000000005,
+    "count" : 11,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -2.43369,
+    "count" : 7,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.11528000000000001,
+    "count" : 1,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.69078,
+    "count" : 3,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.06154,
+    "count" : 1,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -6.2075,
+    "count" : 2,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.78242,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.8769,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "MedicalCenter-1",
+    "usage" : -7.27254,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : 0.63844,
+    "count" : 2777,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.08935614064845465,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.033581055860351074,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Base",
+    "usage" : -0.03016,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.004339000000000001,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Base",
+    "usage" : -0.035491999999999996,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1744,
+  "weather" : {
+    "day" : 2,
+    "hour" : 16,
+    "timeslot" : 1744,
+    "temperature" : -2.3,
+    "windSpeed" : 5.0,
+    "windDirection" : 110.0,
+    "cloudCover" : 1.0
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.01359,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Base",
+    "usage" : -0.08334399999999999,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 SS Base",
+    "usage" : -0.08334399999999999,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Base",
+    "usage" : -0.024425,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Controllable",
+    "usage" : -0.01724,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.31829,
+    "count" : 240,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.5766100000000001,
+    "count" : 946,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.48883,
+    "count" : 2885,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.0989299999999997,
+    "count" : 4936,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -3.09832,
+    "count" : 7576,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.0419,
+    "count" : 60,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.15383000000000002,
+    "count" : 220,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -1.82946,
+    "count" : 2150,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.13996,
+    "count" : 3452,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.61267,
+    "count" : 4839,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.33943,
+    "count" : 1,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.67886,
+    "count" : 2,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -3.73373,
+    "count" : 11,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -2.3760100000000004,
+    "count" : 7,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.11308,
+    "count" : 1,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.96845,
+    "count" : 3,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.06292,
+    "count" : 1,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -6.79987,
+    "count" : 2,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.89197,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.9441499999999999,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "MedicalCenter-1",
+    "usage" : -6.9607,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : 0.28205,
+    "count" : 2777,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.08903635565068434,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.035555555555555556,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Base",
+    "usage" : -0.023382,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.004645,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Base",
+    "usage" : -0.040695999999999996,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1745,
+  "weather" : {
+    "day" : 2,
+    "hour" : 17,
+    "timeslot" : 1745,
+    "temperature" : -2.5,
+    "windSpeed" : 4.0,
+    "windDirection" : 110.0,
+    "cloudCover" : 1.0
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.003628,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Base",
+    "usage" : -0.068425,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 SS Base",
+    "usage" : -0.068425,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Base",
+    "usage" : -0.025396000000000002,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Controllable",
+    "usage" : -0.020373000000000002,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.10657,
+    "count" : 240,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.43627999999999995,
+    "count" : 946,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.16834,
+    "count" : 2885,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.7235,
+    "count" : 4936,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -4.1260200000000005,
+    "count" : 7576,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.04054,
+    "count" : 60,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.14884999999999998,
+    "count" : 220,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -1.3325200000000001,
+    "count" : 2150,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.26296,
+    "count" : 3452,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.38612,
+    "count" : 4839,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.31222000000000005,
+    "count" : 1,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.6244400000000001,
+    "count" : 2,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -3.43443,
+    "count" : 11,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -2.18554,
+    "count" : 7,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.1465,
+    "count" : 1,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -1.1502999999999999,
+    "count" : 3,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.06091,
+    "count" : 1,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -6.35011,
+    "count" : 2,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.78698,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.90086,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "MedicalCenter-1",
+    "usage" : -6.728560000000001,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : 0.0506,
+    "count" : 2777,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.08769853903292602,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.012698412698412698,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.035555555555555556,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Base",
+    "usage" : -0.01385,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.00413,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Base",
+    "usage" : -0.001178,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1746,
+  "weather" : {
+    "day" : 2,
+    "hour" : 18,
+    "timeslot" : 1746,
+    "temperature" : -1.6,
+    "windSpeed" : 4.0,
+    "windDirection" : 110.0,
+    "cloudCover" : 1.0
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.010124,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Base",
+    "usage" : -0.07351,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 SS Base",
+    "usage" : -0.07351,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Base",
+    "usage" : -0.031097,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Controllable",
+    "usage" : -0.020471,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.07817,
+    "count" : 240,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.42067,
+    "count" : 946,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.06823,
+    "count" : 2885,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.1646199999999998,
+    "count" : 4936,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -3.22154,
+    "count" : 7576,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.037090000000000005,
+    "count" : 60,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.13619,
+    "count" : 220,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -1.40918,
+    "count" : 2150,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.83032,
+    "count" : 3452,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.27894,
+    "count" : 4839,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.25595,
+    "count" : 1,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.5119,
+    "count" : 2,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -2.81548,
+    "count" : 11,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -1.79167,
+    "count" : 7,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.18974000000000002,
+    "count" : 1,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -1.11526,
+    "count" : 3,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.10531,
+    "count" : 1,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -4.492319999999999,
+    "count" : 2,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.81099,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.87034,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "MedicalCenter-1",
+    "usage" : -7.058020000000001,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : -0.0,
+    "count" : 2777,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.0894553618428246,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.012698412698412698,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.035555555555555556,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Base",
+    "usage" : -0.001782,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.003209,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Base",
+    "usage" : -6.680000000000001E-4,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1747,
+  "weather" : {
+    "day" : 2,
+    "hour" : 19,
+    "timeslot" : 1747,
+    "temperature" : -1.1,
+    "windSpeed" : 4.0,
+    "windDirection" : 120.0,
+    "cloudCover" : 1.0
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.0016439999999999998,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Base",
+    "usage" : -0.075087,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 SS Base",
+    "usage" : -0.075087,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Base",
+    "usage" : -0.031195,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Controllable",
+    "usage" : -0.024869,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.09704,
+    "count" : 240,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.33688,
+    "count" : 946,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.4468299999999998,
+    "count" : 2885,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.54727,
+    "count" : 4936,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -4.18016,
+    "count" : 7576,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.039259999999999996,
+    "count" : 60,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.14414,
+    "count" : 220,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -1.7628,
+    "count" : 2150,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.0034099999999997,
+    "count" : 3452,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.99979,
+    "count" : 4839,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.18647999999999998,
+    "count" : 1,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.37297,
+    "count" : 2,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -2.0513600000000003,
+    "count" : 11,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -1.3054100000000002,
+    "count" : 7,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.23026,
+    "count" : 1,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -1.17176,
+    "count" : 3,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.10715000000000001,
+    "count" : 1,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -4.11244,
+    "count" : 2,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.8451900000000001,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.93912,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "MedicalCenter-1",
+    "usage" : -5.92213,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : -0.0,
+    "count" : 2777,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.08960670178780211,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.012698412698412698,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.035555555555555556,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Base",
+    "usage" : -0.001188,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.003209,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Base",
+    "usage" : -6.680000000000001E-4,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1748,
+  "weather" : {
+    "day" : 2,
+    "hour" : 20,
+    "timeslot" : 1748,
+    "temperature" : -0.8,
+    "windSpeed" : 4.0,
+    "windDirection" : 120.0,
+    "cloudCover" : 0.875
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.0,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Base",
+    "usage" : -0.08595900000000001,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Controllable",
+    "usage" : -0.050325,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Controllable",
+    "usage" : -0.023268999999999998,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.05293,
+    "count" : 150,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.44662,
+    "count" : 974,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.8280599999999998,
+    "count" : 3393,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.2635,
+    "count" : 5588,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -3.0338000000000003,
+    "count" : 6918,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.06869,
+    "count" : 84,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.21617,
+    "count" : 264,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -1.91741,
+    "count" : 2204,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.8068800000000005,
+    "count" : 3460,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.5791999999999997,
+    "count" : 4971,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.42911,
+    "count" : 3,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.42911,
+    "count" : 3,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -1.16765,
+    "count" : 8,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -1.02169,
+    "count" : 7,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.34043,
+    "count" : 1,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -1.85088,
+    "count" : 5,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.73114,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -4.01484,
+    "count" : 2,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.8317,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.85766,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.79864,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : -0.0,
+    "count" : 4132,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.09117275577076596,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.012698412698412698,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.035555555555555556,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 SS Controllable",
+    "usage" : -0.008801999999999999,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.003209,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Base",
+    "usage" : -6.680000000000001E-4,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Controllable",
+    "usage" : -0.004472,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1749,
+  "weather" : {
+    "day" : 2,
+    "hour" : 21,
+    "timeslot" : 1749,
+    "temperature" : -0.2,
+    "windSpeed" : 4.0,
+    "windDirection" : 140.0,
+    "cloudCover" : 1.0
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.0040620000000000005,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Base",
+    "usage" : -0.09788899999999999,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Controllable",
+    "usage" : -0.026978000000000002,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Controllable",
+    "usage" : -0.018096,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.04564,
+    "count" : 150,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.37865,
+    "count" : 974,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.19283,
+    "count" : 3393,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.0694299999999997,
+    "count" : 5588,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -3.5701,
+    "count" : 6918,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.07293999999999999,
+    "count" : 84,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.22953,
+    "count" : 264,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.1281999999999996,
+    "count" : 2204,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -4.30084,
+    "count" : 3460,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.67839,
+    "count" : 4971,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.31187,
+    "count" : 3,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.31824,
+    "count" : 3,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.84865,
+    "count" : 8,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.7425700000000001,
+    "count" : 7,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.33662000000000003,
+    "count" : 1,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -1.84924,
+    "count" : 5,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.70568,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -3.78549,
+    "count" : 2,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.75867,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.9364600000000001,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.89064,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : -0.0,
+    "count" : 4132,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.09152485313480195,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.012698412698412698,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.035555555555555556,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 SS Controllable",
+    "usage" : -0.0017529999999999996,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.002281,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Base",
+    "usage" : -6.680000000000001E-4,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Controllable",
+    "usage" : -0.002404,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1750,
+  "weather" : {
+    "day" : 2,
+    "hour" : 22,
+    "timeslot" : 1750,
+    "temperature" : -0.3,
+    "windSpeed" : 4.0,
+    "windDirection" : 120.0,
+    "cloudCover" : 0.875
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.007178,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Base",
+    "usage" : -0.052252,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Controllable",
+    "usage" : -0.162774,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Controllable",
+    "usage" : -0.004176,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.06568,
+    "count" : 150,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.09992,
+    "count" : 974,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -5.16634,
+    "count" : 3393,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.8024000000000004,
+    "count" : 5588,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -3.17874,
+    "count" : 6918,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.08098000000000001,
+    "count" : 84,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.25481,
+    "count" : 264,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.2561,
+    "count" : 2204,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.3410100000000003,
+    "count" : 3460,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.72146,
+    "count" : 4971,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.32616,
+    "count" : 3,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.33282,
+    "count" : 3,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.88752,
+    "count" : 8,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.77658,
+    "count" : 7,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.35866000000000003,
+    "count" : 1,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -1.7731,
+    "count" : 5,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.7075199999999999,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -3.88021,
+    "count" : 2,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.84047,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.96317,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.8860399999999999,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : -0.0,
+    "count" : 4132,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.09232291309720443,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.012698412698412698,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.035555555555555556,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 SS Controllable",
+    "usage" : -0.0017529999999999996,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.002281,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Base",
+    "usage" : -6.680000000000001E-4,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Controllable",
+    "usage" : -0.002404,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1751,
+  "weather" : {
+    "day" : 2,
+    "hour" : 23,
+    "timeslot" : 1751,
+    "temperature" : -0.3,
+    "windSpeed" : 2.0,
+    "windDirection" : 130.0,
+    "cloudCover" : 1.0
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.0,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Base",
+    "usage" : -0.004254,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Controllable",
+    "usage" : -0.004254,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Controllable",
+    "usage" : -0.004176,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.09119,
+    "count" : 150,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.90892,
+    "count" : 974,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.5522,
+    "count" : 3393,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -3.01095,
+    "count" : 5588,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.80224,
+    "count" : 6918,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.08585,
+    "count" : 84,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.27014,
+    "count" : 264,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.56305,
+    "count" : 2204,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.5418,
+    "count" : 3460,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.24306,
+    "count" : 4971,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.30597,
+    "count" : 3,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.31221,
+    "count" : 3,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.83257,
+    "count" : 8,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.7285,
+    "count" : 7,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.35343,
+    "count" : 1,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.53576,
+    "count" : 5,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.69175,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -3.7532799999999997,
+    "count" : 2,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.81677,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.87066,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.7744099999999999,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : -0.0,
+    "count" : 4132,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.09349656470936081,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.012698412698412698,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.035555555555555556,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.0,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 SS Controllable",
+    "usage" : -0.0017529999999999996,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.002281,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Base",
+    "usage" : -6.680000000000001E-4,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Controllable",
+    "usage" : -0.002404,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1752,
+  "weather" : {
+    "day" : 3,
+    "hour" : 0,
+    "timeslot" : 1752,
+    "temperature" : -0.9,
+    "windSpeed" : 3.0,
+    "windDirection" : 110.0,
+    "cloudCover" : 1.0
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.0,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Base",
+    "usage" : -0.004254,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Controllable",
+    "usage" : -0.004254,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Controllable",
+    "usage" : -0.004176,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.13981,
+    "count" : 150,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.65326,
+    "count" : 974,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.50191,
+    "count" : 3393,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -3.61142,
+    "count" : 5588,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -2.56198,
+    "count" : 6918,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.09753,
+    "count" : 84,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.30689999999999995,
+    "count" : 264,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -2.22634,
+    "count" : 2204,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -4.02367,
+    "count" : 3460,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.47212,
+    "count" : 4971,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.33864,
+    "count" : 3,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.34555,
+    "count" : 3,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.92149,
+    "count" : 8,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.8062999999999999,
+    "count" : 7,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.32931,
+    "count" : 1,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -1.16103,
+    "count" : 5,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.52543,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -3.83417,
+    "count" : 2,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.8895,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.84746,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.88515,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : -0.0,
+    "count" : 4132,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.09259712353327806,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.012698412698412698,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.06743075772985768,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.03555555555555555,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 SS Controllable",
+    "usage" : -0.0017529999999999996,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.002281,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Base",
+    "usage" : -6.680000000000001E-4,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Controllable",
+    "usage" : -0.002404,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+}, {
+  "timeslot" : 1753,
+  "weather" : {
+    "day" : 3,
+    "hour" : 1,
+    "timeslot" : 1753,
+    "temperature" : -1.4,
+    "windSpeed" : 1.0,
+    "windDirection" : 100.0,
+    "cloudCover" : 1.0
+  },
+  "c" : [ {
+    "customerName" : "Village 1 NS Controllable",
+    "usage" : -0.0,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Base",
+    "usage" : -0.004254,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 1 ReS Controllable",
+    "usage" : -0.004254,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "Village 2 SS Controllable",
+    "usage" : -0.004176,
+    "count" : 10,
+    "totalConsumers" : 10,
+    "multicontract" : false
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.10044,
+    "count" : 150,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -0.40174,
+    "count" : 974,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -1.51087,
+    "count" : 3393,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -8.50855,
+    "count" : 5588,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "BrooksideHomes",
+    "usage" : -3.4694000000000003,
+    "count" : 6918,
+    "totalConsumers" : 30000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.08468,
+    "count" : 84,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -0.26647000000000004,
+    "count" : 264,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -1.6689899999999998,
+    "count" : 2204,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.4950699999999997,
+    "count" : 3460,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "CentervilleHomes",
+    "usage" : -3.8286100000000003,
+    "count" : 4971,
+    "totalConsumers" : 20000,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.30581,
+    "count" : 3,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.31205,
+    "count" : 3,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.83214,
+    "count" : 8,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "DowntownOffices",
+    "usage" : -0.72812,
+    "count" : 7,
+    "totalConsumers" : 30,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.25647000000000003,
+    "count" : 1,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -1.08297,
+    "count" : 5,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "EastsideOffices",
+    "usage" : -0.33820999999999996,
+    "count" : 2,
+    "totalConsumers" : 25,
+    "multicontract" : true
+  }, {
+    "customerName" : "FrostyStorage",
+    "usage" : -3.36049,
+    "count" : 2,
+    "totalConsumers" : 3,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.885,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.89698,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "HextraChemical",
+    "usage" : -0.8124600000000001,
+    "count" : 1,
+    "totalConsumers" : 5,
+    "multicontract" : true
+  }, {
+    "customerName" : "SolarLeasing",
+    "usage" : -0.0,
+    "count" : 4132,
+    "totalConsumers" : 7000,
+    "multicontract" : true
+  }, {
+    "customerName" : "freezeco-2",
+    "usage" : -0.09269590552644003,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf2",
+    "usage" : -0.012698412698412698,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "sf3",
+    "usage" : -0.06095238095238095,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "fc3",
+    "usage" : -0.03555555555555555,
+    "count" : 1,
+    "totalConsumers" : 1,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 NS Base",
+    "usage" : -0.001916,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 1 SS Controllable",
+    "usage" : -0.0017529999999999996,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 NS Controllable",
+    "usage" : -0.002281,
+    "count" : 5,
+    "totalConsumers" : 5,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Base",
+    "usage" : -6.680000000000001E-4,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  }, {
+    "customerName" : "OfficeComplex 2 SS Controllable",
+    "usage" : -0.002404,
+    "count" : 3,
+    "totalConsumers" : 3,
+    "multicontract" : false
+  } ]
+} ]

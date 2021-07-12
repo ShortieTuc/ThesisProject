@@ -1,0 +1,247 @@
+{
+  "id" : 6439,
+  "currentTimeslot" : {
+    "serialNumber" : 453,
+    "startInstant" : {
+      "chronology" : {
+        "zone" : {
+          "fixed" : true,
+          "id" : "UTC"
+        }
+      },
+      "millis" : 1256763600000,
+      "zone" : {
+        "fixed" : true,
+        "id" : "UTC"
+      },
+      "afterNow" : false,
+      "beforeNow" : true,
+      "equalNow" : false
+    },
+    "startTime" : 1256763600000,
+    "endInstant" : {
+      "chronology" : {
+        "zone" : {
+          "fixed" : true,
+          "id" : "UTC"
+        }
+      },
+      "millis" : 1256767200000,
+      "zone" : {
+        "fixed" : true,
+        "id" : "UTC"
+      },
+      "afterNow" : false,
+      "beforeNow" : true,
+      "equalNow" : false
+    },
+    "id" : 453
+  },
+  "predictions" : [ {
+    "id" : 6346,
+    "forecastTime" : 1,
+    "temperature" : 11.1,
+    "windSpeed" : 0.66,
+    "windDirection" : 238.0,
+    "cloudCover" : 1.0
+  }, {
+    "id" : 6347,
+    "forecastTime" : 2,
+    "temperature" : 11.9,
+    "windSpeed" : 0.51,
+    "windDirection" : 225.0,
+    "cloudCover" : 0.877
+  }, {
+    "id" : 6348,
+    "forecastTime" : 3,
+    "temperature" : 9.9,
+    "windSpeed" : 0.47,
+    "windDirection" : 265.0,
+    "cloudCover" : 1.0
+  }, {
+    "id" : 6349,
+    "forecastTime" : 4,
+    "temperature" : 10.0,
+    "windSpeed" : 0.0,
+    "windDirection" : 263.0,
+    "cloudCover" : 1.0
+  }, {
+    "id" : 6350,
+    "forecastTime" : 5,
+    "temperature" : 10.9,
+    "windSpeed" : 0.39,
+    "windDirection" : 262.0,
+    "cloudCover" : 0.925
+  }, {
+    "id" : 6351,
+    "forecastTime" : 6,
+    "temperature" : 11.9,
+    "windSpeed" : 0.0,
+    "windDirection" : 256.0,
+    "cloudCover" : 0.938
+  }, {
+    "id" : 6352,
+    "forecastTime" : 7,
+    "temperature" : 13.2,
+    "windSpeed" : 0.0,
+    "windDirection" : 229.0,
+    "cloudCover" : 0.976
+  }, {
+    "id" : 6353,
+    "forecastTime" : 8,
+    "temperature" : 13.4,
+    "windSpeed" : 0.0,
+    "windDirection" : 230.0,
+    "cloudCover" : 0.93
+  }, {
+    "id" : 6354,
+    "forecastTime" : 9,
+    "temperature" : 13.0,
+    "windSpeed" : 0.0,
+    "windDirection" : 218.0,
+    "cloudCover" : 0.867
+  }, {
+    "id" : 6355,
+    "forecastTime" : 10,
+    "temperature" : 14.8,
+    "windSpeed" : 0.36,
+    "windDirection" : 240.0,
+    "cloudCover" : 0.811
+  }, {
+    "id" : 6356,
+    "forecastTime" : 11,
+    "temperature" : 16.7,
+    "windSpeed" : 0.0,
+    "windDirection" : 240.0,
+    "cloudCover" : 0.82
+  }, {
+    "id" : 6357,
+    "forecastTime" : 12,
+    "temperature" : 17.8,
+    "windSpeed" : 0.01,
+    "windDirection" : 279.0,
+    "cloudCover" : 0.849
+  }, {
+    "id" : 6358,
+    "forecastTime" : 13,
+    "temperature" : 20.2,
+    "windSpeed" : 0.0,
+    "windDirection" : 8.0,
+    "cloudCover" : 0.832
+  }, {
+    "id" : 6359,
+    "forecastTime" : 14,
+    "temperature" : 22.8,
+    "windSpeed" : 0.17,
+    "windDirection" : 8.0,
+    "cloudCover" : 0.832
+  }, {
+    "id" : 6360,
+    "forecastTime" : 15,
+    "temperature" : 22.4,
+    "windSpeed" : 0.0,
+    "windDirection" : 7.0,
+    "cloudCover" : 0.836
+  }, {
+    "id" : 6361,
+    "forecastTime" : 16,
+    "temperature" : 22.1,
+    "windSpeed" : 0.97,
+    "windDirection" : 36.0,
+    "cloudCover" : 0.835
+  }, {
+    "id" : 6362,
+    "forecastTime" : 17,
+    "temperature" : 21.5,
+    "windSpeed" : 0.0,
+    "windDirection" : 39.0,
+    "cloudCover" : 0.82
+  }, {
+    "id" : 6363,
+    "forecastTime" : 18,
+    "temperature" : 19.5,
+    "windSpeed" : 0.0,
+    "windDirection" : 48.0,
+    "cloudCover" : 0.82
+  }, {
+    "id" : 6364,
+    "forecastTime" : 19,
+    "temperature" : 18.8,
+    "windSpeed" : 0.42,
+    "windDirection" : 58.0,
+    "cloudCover" : 0.8
+  }, {
+    "id" : 6365,
+    "forecastTime" : 20,
+    "temperature" : 19.0,
+    "windSpeed" : 1.44,
+    "windDirection" : 50.0,
+    "cloudCover" : 0.808
+  }, {
+    "id" : 6366,
+    "forecastTime" : 21,
+    "temperature" : 19.0,
+    "windSpeed" : 0.75,
+    "windDirection" : 59.0,
+    "cloudCover" : 0.801
+  }, {
+    "id" : 6367,
+    "forecastTime" : 22,
+    "temperature" : 18.8,
+    "windSpeed" : 0.98,
+    "windDirection" : 57.0,
+    "cloudCover" : 0.803
+  }, {
+    "id" : 6368,
+    "forecastTime" : 23,
+    "temperature" : 18.6,
+    "windSpeed" : 2.94,
+    "windDirection" : 88.0,
+    "cloudCover" : 0.8
+  }, {
+    "id" : 6369,
+    "forecastTime" : 24,
+    "temperature" : 17.6,
+    "windSpeed" : 1.88,
+    "windDirection" : 16.0,
+    "cloudCover" : 0.69
+  } ],
+  "timeslot" : {
+    "serialNumber" : 453,
+    "startInstant" : {
+      "chronology" : {
+        "zone" : {
+          "fixed" : true,
+          "id" : "UTC"
+        }
+      },
+      "millis" : 1256763600000,
+      "zone" : {
+        "fixed" : true,
+        "id" : "UTC"
+      },
+      "afterNow" : false,
+      "beforeNow" : true,
+      "equalNow" : false
+    },
+    "startTime" : 1256763600000,
+    "endInstant" : {
+      "chronology" : {
+        "zone" : {
+          "fixed" : true,
+          "id" : "UTC"
+        }
+      },
+      "millis" : 1256767200000,
+      "zone" : {
+        "fixed" : true,
+        "id" : "UTC"
+      },
+      "afterNow" : false,
+      "beforeNow" : true,
+      "equalNow" : false
+    },
+    "id" : 453
+  },
+  "timeslotIndex" : 453
+}
