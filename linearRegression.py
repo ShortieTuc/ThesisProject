@@ -22,11 +22,12 @@ def create_lags(dataset, num):
 
 start = t.time()
 
-num_lags = 1
-df = pd.read_csv('Datasets/Full.csv')
+num_lags = 5
+df = pd.read_csv('Datasets/Denver.csv')
 df = create_lags(df, num_lags)
 df = df.filter(['hour', 'day', 'month', 'year', 'temperature', 'windSpeed', 'windDirection', 'cloudCover',
-                'netUsageMWh_lag1', 'netUsageMWh'])
+                'netUsageMWh_lag1', 'netUsageMWh_lag2', 'netUsageMWh_lag3', 'netUsageMWh_lag4', 'netUsageMWh_lag5',
+                'netUsageMWh'])
 
 # shuffle datapoints
 df = df.sample(frac=1)
@@ -76,7 +77,6 @@ print("Results of metrics:")
 print("time in s : ", total)
 print("Lags:", num_lags)
 print("MAE:", mae)
-print("MSE:", mse)
 print("RMSE:", rmse)
 print("R-Squared:", r2)
 

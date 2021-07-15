@@ -26,23 +26,20 @@ def create_lags(dataset, num):
 start = t.time()
 mins_look_back = 24
 forward_mins = 24
-num_features = 9
-num_lags = 1
+num_features = 12
+num_lags = 4
 
 # Read the CSV input file and show first 5 rows
 # 230 days * 24 hours = 5520 datapoints
-df = pd.read_csv('Datasets/Denver.csv')
+df = pd.read_csv('Datasets/Full.csv')
 df_train = create_lags(df, num_lags)
 df_train = df_train.filter(['hour', 'day', 'month', 'year', 'temperature', 'windSpeed', 'windDirection', 'cloudCover',
-                'netUsageMWh_lag1', 'netUsageMWh'])
-
+                            'netUsageMWh_lag1', 'netUsageMWh_lag2', 'netUsageMWh_lag3', 'netUsageMWh_lag4', 'netUsageMWh'])
 
 # Split dataset to features and target
 dataset_arr = df_train.values
 X = dataset_arr[:, :num_features]
 y = dataset_arr[:, num_features:]
-
-
 # Scale data in [0,1] range
 scl = MinMaxScaler()
 X = scl.fit_transform(X)
@@ -64,7 +61,6 @@ print('X Train: ', X_train.shape)
 print('y Train: ', y_train.shape)
 print('X Test: ', X_test.shape)
 print('y Test: ', y_test.shape)
-
 
 num_neurons_InL = 24
 num_neurons_HL1 = 12
@@ -121,15 +117,3 @@ print("MAE:", mae)
 print("MSE:", mse)
 print("RMSE:", rmse)
 print("R-Squared:", r2)
-
-
-# # Visualize results
-# plot_file_name = 'FFN_EP{}_BS{}.png'.format(epochs, batch_size)
-# plt.figure(figsize=(18, 10))
-# plt.plot(predictions, label='Predictions')
-# plt.plot(targets, label='Target')
-# plt.legend(loc='best')
-# plt.title("Epochs = %d HL Neurons = %d Batch Size = %d"%(epochs, num_neurons_HL1, batch_size), fontsize=24)
-# plt.grid(True)
-# plt.savefig(plot_file_name)
-# plt.show()
